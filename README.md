@@ -1,5 +1,6 @@
 # Node.js - MYSQL Tutorials
 Node.js - Mysql functions and tutorials.
+
 "You must create database and user for connection."
 
 
@@ -18,4 +19,4 @@ C:\Users\Your Name>npm install mysql
 
 * [Nodejs - Download](https://nodejs.org/)
 * [MYSQL - Download](http://dev.mysql.com/downloads/mysql/)
-* [Nodejs - W3Schools Lessons](https://www.w3schools.com/nodejs/nodejs_mysql.asp)
+* [Nodejs - W3Schools MYSQL Lessons](https://www.w3schools.com/nodejs/nodejs_mysql.asp)
