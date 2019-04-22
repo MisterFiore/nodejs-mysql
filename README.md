@@ -1,5 +1,5 @@
 # Node.js - MYSQL Tutorials
-Node.js - Mysql functions and tutorials.
+Node.js - Basic Mysql functions and tutorials.
 
 "You must create database and user for connection."
 
