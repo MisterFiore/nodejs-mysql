@@ -13,5 +13,3 @@ con.connect(function(err) {
 	console.log("Last id : " + result.insertId);
   });
 });
-
-con.end();
