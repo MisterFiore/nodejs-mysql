@@ -10,7 +10,7 @@ C:\Users\Your Name>node file.js
 ```
 
 ## Load package for mysql
-> You can delete "node-modules" folder. Then, install with this code.
+> You can delete "node_modules" folder. Then, install with this code.
 ```
 C:\Users\Your Name>npm install mysql
 ```
